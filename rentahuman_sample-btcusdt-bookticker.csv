@@ -1,0 +1,2 @@
+symbol,update_id,bid_price,bid_qty,ask_price,ask_qty,event_time_ms,received_time_ns
+BTCUSDT,101943465180,79860.74000000,6.43366000,79860.75000000,1.28915000,1793056225445,1793056224028000000
