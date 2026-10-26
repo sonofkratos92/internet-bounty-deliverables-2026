@@ -1,0 +1,3 @@
+717938e369f78123dc0b05adc0dfc937fcb0f991165221a8d284d658d07964c9  sample-btcusdt-spot-l2-snapshot.csv  (rows: 20)
+6e09dc2b7c2c03b69528a787460b6ebd67b79ab303954eeeedf363632dbaedde  sample-btcusdt-bookticker.csv  (rows: 1)
+01b4d23ad7d3b783d100fb269b13b7c779b77fdda9b798d5398501b7c0d73d10  sample-btcusdt-trades.csv  (rows: 50)
